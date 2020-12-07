@@ -1,0 +1,11 @@
+# Editor.
+/.vscode
+
+# Language.
+/.metals
+/.bloop
+/project
+
+# Temporary.
+/target
+/.direnv
